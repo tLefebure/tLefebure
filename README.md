@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @tLefebure
 - 👀 I’m interested in: Mechatronics, Additive Manufacturing, and Assistive Technologies Development.
-- 🌱 I’m currently studying Electrical Engineering at the University of Victoria.
-- 💞️ I’m looking to collaborate on C++, Python, and Assembly projects related to my interests.
+- 🌱 I study Electrical Engineering at the University of Victoria.
+- 💼 Currently, I'm working as a Salesforce Consultant/Developer at Silius Technologies Inc.
+- 💞️ I’m looking to collaborate on C++, Python, Apex, Javascript, and HTML projects related to my interests.
 - 📫 How to reach me: thomas.williams.lefebure@gmail.com
 
 <!---
